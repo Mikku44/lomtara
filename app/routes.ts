@@ -8,6 +8,7 @@ export default [
             route("destination", "routes/destination.tsx"),
             route("contact", "routes/contact.tsx"),
             route("book", "routes/book.tsx"),
+            route("checkout", "routes/checkout.tsx"),
         ]
     ),
 ] satisfies RouteConfig;
